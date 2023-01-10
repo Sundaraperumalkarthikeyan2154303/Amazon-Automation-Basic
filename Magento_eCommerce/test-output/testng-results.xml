@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-10T14:46:47 IST" name="Default suite" finished-at="2023-01-10T14:47:08 IST" duration-ms="20488">
+    <groups>
+    </groups>
+    <test started-at="2023-01-10T14:46:47 IST" name="Default test" finished-at="2023-01-10T14:47:08 IST" duration-ms="20488">
+      <class name="TestSuites.AllPages">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:TestSuites.AllPages@2438dcd]" started-at="2023-01-10T14:46:47 IST" name="driverSetup" finished-at="2023-01-10T14:46:51 IST" duration-ms="3438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="testCases()[pri:0, instance:TestSuites.AllPages@2438dcd]" started-at="2023-01-10T14:46:51 IST" name="testCases" finished-at="2023-01-10T14:47:07 IST" duration-ms="16289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCases -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestSuites.AllPages@2438dcd]" started-at="2023-01-10T14:47:07 IST" name="closeBrowser" finished-at="2023-01-10T14:47:08 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuites.AllPages -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
